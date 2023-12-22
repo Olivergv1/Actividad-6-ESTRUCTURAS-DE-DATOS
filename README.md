@@ -6,6 +6,7 @@ realizar la resolución de ejercicios e implementación de algoritmos sobre Conj
 Dados los siguientes arreglos:
 
 String servidorA = "usuario1@dominio.com;usuario2@dominio.com;gabriel@dominio.com;gabriel@protonmail.com;gm@grupofmo.com;kevinmitnick@mnsecurity.com;rms@gnu.org;linus@kernel.org;jamesgosling@cmu.edu;dennisritchie@harvard.edu;kenthompson@berkeley.edu";
+
 String servidorB = "usuario1@dominio.com;usuario2@dominio.com;usuario3@dominio.com;darksoul@protonmail.com;rcd@rcd.com;davek@mnsecurity.com;rms@gnu.org;mdeicaza@gnome.org;alan.turing@ieee.org;gabriel.morejon@presidencia.gob.ec;user1000@berkeley.edu";
 
 
